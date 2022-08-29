@@ -1,0 +1,16 @@
+1. RUN
+>> python color_visualization.py
+
+2. EXAMPLE EMBEDDING (110 random points)
+>> embedding_random.npz
+
+3. IMAGE META DATA FORMAT
+>> example.csv (DATAframe by PANDAS)
+
+4. IMAGES (110 examples images)
+>>./imgs/
+
+5.USER OPTIONS
+>>reletive paths
+>>painting_hold=False # holding or disapperaing  as a new point is pressed (False:disappear) 
+
