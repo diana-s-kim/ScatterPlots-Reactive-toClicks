@@ -6,7 +6,7 @@ By doing so, it helps the users to see the relationship between the images and d
 The example figure below presents 110 two-dimensional data samples with different colors based on their style information. <br>
 Six paintings are revealed  by clicking six data points<br>
 
-1. RUN
+1. RUN// add comment
 >> python color_visualization.py
 
 2. EXAMPLE EMBEDDING (110 random points)
