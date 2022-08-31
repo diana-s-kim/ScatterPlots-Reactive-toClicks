@@ -1,6 +1,5 @@
 #Painting Scatter Plot (Styles)
 #@Diana Kim June.01.2021
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -19,7 +18,7 @@ df['color']=df['art_style'].apply(color_map)
 embedding_=np.load("embedding_random.npz") #load embeddings ['embedding']
 data_=embedding_['embedding']
 img_path="./imgs/"# path for images
-painting_hold=False # holding or disapperaing  as a new point is pressed (False:disappear) 
+painting_hold=True # holding or disapperaing  as a new point is pressed (False:disappear) 
 
 
 
