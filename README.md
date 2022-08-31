@@ -10,7 +10,7 @@ Six paintings are revealed  by clicking six data points<br>
 1. RUN
 >> python color_visualization.py
 
-2. EXAMPLE EMBEDDING (110 random points)
+2. EXAMPLE EMBEDDING (110 random points)//update
 >> embedding_random.npz
 
 3. IMAGE META DATA FORMAT
