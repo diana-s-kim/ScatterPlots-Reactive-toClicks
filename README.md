@@ -7,7 +7,7 @@ The example figure below presents 110 two-dimensional data samples with differen
 Six paintings are revealed  by clicking six data points<br>
 
 
-1. RUN
+1. RUN //update
 >> python color_visualization.py
 
 2. EXAMPLE EMBEDDING (110 random points)
