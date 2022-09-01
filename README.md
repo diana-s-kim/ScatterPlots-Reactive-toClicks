@@ -1,25 +1,22 @@
 <h3 align="center">Displayinig Corresponding Images by Clicking Data Points</h3>
-<div align="center">
+<div align="left">
 This python code is written while working on art-data analysis projects.<br>
-It reads and displays an image correposnding to 2-D data point clicked by users <br>
-By doing so, it helps the users to see the relationship between the images and data poitns' geometry. <br>
+The code reads and displays an image corresponding to 2-D data point clicked by users <br>
+By doing so, it helps the users to see the relationship between the images and data points' geometry. <br>
 The example figure below presents 110 two-dimensional data samples with different colors based on their style information. <br>
-Six paintings are revealed  by clicking six data points<br>
+
+<figure>
+<img src="example.png" width="850" heigh="600"><br/>
+<figcaption>Six example paintings are shown by clicking six arbitrary data points</figcaption>
+</figure>
+</br>
 
 
-1. RUN //update
->> python color_visualization.py
-
-2. EXAMPLE EMBEDDING (110 random points)//update
->> embedding_random.npz
-
-3. IMAGE META DATA FORMAT
->> example.csv (DATAframe by PANDAS)
-
-4. IMAGES (110 examples images)
->>./imgs/
-
-5.USER OPTIONS
->>reletive paths
->>painting_hold=False # holding or disapperaing  as a new point is pressed (False:disappear) 
-
+<h5> Files</h5>
+<ol>
+<li> Run: python color_visualization.py
+<li> Data embedding (110 random points): embedding_random.npz
+<li> Image meta information: example.csv
+<li> Images: ./imgs/
+<li> User Display Option: painting_hold=True-previous images are hold when new data points are clicked
+</ol>
