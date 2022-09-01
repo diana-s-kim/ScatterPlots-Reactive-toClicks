@@ -6,7 +6,7 @@ By doing so, it helps the users to see the relationship between the images and d
 The example figure below presents 110 two-dimensional data samples with different colors based on their style information. <br>
 
 <figure>
-<img src="example.png" width="500" heigh="400"><br/>
+<img src="example.png" width="500" heigh="400" text-align="center"><br/>
 <figcaption>Six example paintings are shown by clicking six arbitrary data points</figcaption>
 </figure>
 </br>
