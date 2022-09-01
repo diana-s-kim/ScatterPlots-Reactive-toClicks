@@ -5,7 +5,7 @@ The code reads and displays the images corresponding to 2-D data points clicked 
 By doing so, it helps to see the relationship between the images and data points' geometry. <br>
 The example figure below presents 110 two-dimensional data samples with different colors based on their style information. <br>
 
-<div algin="center">
+<div align="center">
 <figure style="width: 50%; font-style: itlaic; font-size: smaller text-align: center;">
 <img src="example.png" width=570 height=450><br/>
 <figcaption>Figure: Six example paintings are shown by clicking six arbitrary data points</figcaption>
