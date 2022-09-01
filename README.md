@@ -4,7 +4,7 @@ This python code is written while working on art-data analysis projects.<br>
 The code reads and displays the images corresponding to 2-D data points clicked by users. <br>
 By doing so, it helps to understand the relationship between the images and data points' geometry. <br>
 The example figure below presents 110 two-dimensional data samples with different colors based on their styles. <br>
-
+<br>
 <div align="center">
 <figure style="width: 50%; font-style: itlaic; font-size: smaller text-align: center;">
 <img src="example.png" width=550 height=430><br/>
