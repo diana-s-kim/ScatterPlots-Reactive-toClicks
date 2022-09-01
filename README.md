@@ -7,7 +7,7 @@ The example figure below presents 110 two-dimensional data samples with differen
 
 <div align="center">
 <figure style="width: 50%; font-style: itlaic; font-size: smaller text-align: center;">
-<img src="example.png" width=570 height=450><br/>
+<img src="example.png" width=550 height=430><br/>
 <figcaption>Figure: six corresponding paintings are shown as six arbitrary data points are clicked.</figcaption>
 </figure>
 </div>
